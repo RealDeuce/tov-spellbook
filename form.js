@@ -8,7 +8,6 @@
  * Stephen Hurd
  */
 
-import spells from "./spells.js";
 import wizard from "./wizard.js";
 import { summary, generateSpellbook } from "./spellbook.js";
 

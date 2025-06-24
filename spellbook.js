@@ -9,7 +9,6 @@
  */
 
 import spells from "./spells.js";
-import wizard from "./wizard.js";
 
 function getSummary() {
 	let styles = {};
