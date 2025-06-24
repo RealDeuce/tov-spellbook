@@ -137,6 +137,7 @@ export function generateSpellbook(st, stb, sc, scb, w, sources) {
 	if (sc === undefined) error("Undefined school");
 	if (scb === undefined) error("Undefined school bias");
 	if (w === undefined) error("Undefined author stuff");
+	if (sources === undefined) error("Undefined sources array");
 
 	for (let o = 0; o < 2; o++) {
 		const arr = o ? w.rituals : w.spells;
