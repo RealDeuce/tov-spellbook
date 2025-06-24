@@ -235,7 +235,7 @@ function generate() {
 				bst = removeSpell(bst, spell);
 				bsc = removeSpell(bsc, spell);
 				bb = removeSpell(bb, spell);
-				spell += ' (' + sources.filter(value => spells[spell].sources.includes(value)) + ')';
+				spell += ' (' + sources.filter(value => spells[spell].sources.includes(value)).join(', ') + ')';
 				ret.push(spell);
 			}
 			output.innerHTML += "<strong>Circle " + (i + 1) + ":</strong> " + ret.sort().join(', ')+"<br>";
