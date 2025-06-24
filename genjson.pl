@@ -69,9 +69,8 @@ while (<IN>) {
 	elsif (/^(.*) Magic$/) {
 		$style = $1;
 	}
-	elsif (/^([^(]+?)\*?\s+\((Abjuration|alteration|Conjuration|Divination|Enchantment|Evocation|Illusion|Necromancy|Transmutation)\)$/i) {
+	elsif (/^([^(]+?)\*?\s+\((Abjuration|Conjuration|Divination|Enchantment|Evocation|Illusion|Necromancy|Transmutation)\)$/i) {
 		my ($name, $school) = (lc($1), lc($2));
-		$school = 'transmutation' if ($school eq 'alteration');
 		if (!defined $output{$name}) {
 			#print STDERR "Unknown spell: '$name'\n";
 		}
