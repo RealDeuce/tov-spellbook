@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+<!--
+"THE BEER-WARE LICENSE" (Revision 42):
+
+shurd@FreeBSD.ORG wrote this file. As long as you retain this notice
+you can do whatever you want with this stuff. If we meet some day, and
+you think this stuff is worth it, you can buy me a beer in return.
+
+Stephen Hurd
+-->
+	<head>
+		<meta charset="utf-8">
+		<title>Spellbook Generator</title>
+		<script type="module" src="./spellbook.js"></script>
+	</head>
+	<body>
+		<p>This page just generates a spellbook for Tales of the Valiant given preferences for the style and school of magic.</p>
+		<p>It draws on the spells from Deep Magic Volumes 1 & 2, and the Tales of the Valiant Player's guide.</p>
+		<p>
+			Style: <select id="style"><option>None</option></select>
+			Bias <select id="style-bias"><option>0</option></select> (percentage that will be chosen from these spells if possible)<br>
+			School: <select id="school"><option>None</option></select>
+			Bias <select id="school-bias"><option>0</option></select> (percentage that will be chosen from these spells if possible)<br>
+			Author Level: <select id="author"><option>1st</option></select><br>
+			Sources:
+			<label><input type="checkbox" name="sources" value="DM1" checked> Deep Magic Vol. 1</label>
+			<label><input type="checkbox" name="sources" value="DM2" checked> Deep Magic Vol. 2</label>
+			<label><input type="checkbox" name="sources" value="PG" checked> ToV Player's Guide</label>
+			<label><input type="checkbox" name="sources" value="BFRD"> Black Flag Reference Document</label>
+			<label><input type="checkbox" name="sources" value="LW" checked> Labyrinth Worldbook</label><br>
+			<button type="button" id="generate">Generate</button>
+		</p>
+		<p id="output"></p>
+	</body>
+</html>
