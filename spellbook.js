@@ -238,7 +238,7 @@ function generate() {
 				spell += ' (' + sources.filter(value => spells[spell].sources.includes(value)) + ')';
 				ret.push(spell);
 			}
-			output.innerHTML += "<strong>Level " + (i + 1) + ":</strong> " + ret.sort().join(', ')+"<br>";
+			output.innerHTML += "<strong>Circle " + (i + 1) + ":</strong> " + ret.sort().join(', ')+"<br>";
 		}
 	}
 }
