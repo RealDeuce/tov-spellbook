@@ -113,13 +113,6 @@ function getSpellsByStyleAndSchool(sources, style, school, ritual, circle)
 	return ret;
 }
 
-function addOpt(opt, name) {
-	var newOption = document.createElement('option');
-	newOption.value = name;
-	newOption.innerHTML = name;
-	opt.appendChild(newOption);
-}
-
 function removeSpell(list, spell) {
 	let idx = list.indexOf(spell);
 	if (idx !== -1) {
@@ -128,61 +121,17 @@ function removeSpell(list, spell) {
 	return list;
 }
 
-const summary = getSummary();
-const styleOpt = document.getElementById("style");
-const styleBiasOpt = document.getElementById("style-bias");
-const schoolOpt = document.getElementById("school");
-const schoolBiasOpt = document.getElementById("school-bias");
-const authorLevelOpt = document.getElementById("author");
-const output = document.getElementById("output");
-const generateButton = document.getElementById("generate");
-const sources = document.getElementsByName("sources");
+export const summary = getSummary();
 
-function readSources() {
-	let ret = [];
-	for (const source of sources) {
-		if (source.checked) {
-			ret.push(source.value);
-		}
-	}
-	return ret;
-}
-
-for (const style of summary.styles) {
-	addOpt(styleOpt, style);
-}
-
-for (const school of summary.schools) {
-	addOpt(schoolOpt, school);
-}
-
-styleBiasOpt.innerHTML = '';
-for (let i = 0; i < 100; i += 5) {
-	addOpt(styleBiasOpt, i);
-	addOpt(schoolBiasOpt, i);
-}
-
-authorLevelOpt.innerHTML = '';
-for (const level in wizard) {
-	if (Object.hasOwn(wizard, level)) {
-		addOpt(authorLevelOpt, level);
-	}
-}
-
-function generate() {
-	output.innerHTML = "";
+export function generateSpellbook(st, stb, sc, scb, w, sources) {
+	let ret = {
+		'rituals': [],
+		'spells': []
+	};
 
 	function error(msg) {
-		alert(msg);
 		throw new Error(msg);
 	}
-
-	const st = styleOpt.value;
-	const stb = styleBiasOpt.value;
-	const sc = schoolOpt.value;
-	const scb = schoolBiasOpt.value;
-	const w = wizard[authorLevelOpt.value];
-	const sources = readSources();
 
 	if (st === undefined) error("Undefined style");
 	if (stb === undefined) error("Undefined style bias");
@@ -192,11 +141,9 @@ function generate() {
 
 	for (let o = 0; o < 2; o++) {
 		const arr = o ? w.rituals : w.spells;
-		if (o) {
-			output.innerHTML += "<br><strong>Rituals</strong><br>";
-		}
+		const oarr = o ? ret.rituals : ret.spells;
 		for (let i = 0; i < arr.length; i++) {
-			let ret = [];
+			oarr[i] = [];
 
 			let all = getSpells(sources, i === 0, i);
 			let bst = getSpellsByStyle(sources, st, i === 0, i);
@@ -236,11 +183,9 @@ function generate() {
 				bsc = removeSpell(bsc, spell);
 				bb = removeSpell(bb, spell);
 				spell += ' (' + sources.filter(value => spells[spell].sources.includes(value)).join(', ') + ')';
-				ret.push(spell);
+				oarr[i].push(spell);
 			}
-			output.innerHTML += "<strong>Circle " + (i + 1) + ":</strong> " + ret.sort().join(', ')+"<br>";
 		}
 	}
+	return ret;
 }
-
-generateButton.addEventListener('click', ()=>{generate();});
