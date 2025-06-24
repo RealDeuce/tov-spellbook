@@ -1,0 +1,1028 @@
+Battle Magic
+Cantrips (0 Level)
+Swing and a missile* (evocation)
+True strike (divination)
+1st Level
+Anneal* (transmutation)
+Concussive punch* (transmutation)
+Expeditious retreat (transmutation)
+Grit in the eye* (evocation)
+Hemmen’s low blow* (conjuration)
+Heroism (enchantment)
+Hunter’s mark (divination)
+Last strike* (abjuration)
+Mage armor (abjuration)
+Shield (abjuration)
+2nd Level
+Acid arrow (evocation)
+Branding smite (evocation)
+Flame blade (evocation)
+Magic weapon (transmutation)
+Misty step (conjuration)
+Strafe* (evocation)
+3rd Level
+Counterspell (abjuration)
+Beast essence* (transmutation)
+Haste (transmutation)
+Nimble dance* (transmutation)
+4th Level
+Bark bulwark* (abjuration)
+Freedom of movement (abjuration)
+Harfang’s hoarfrost* (transmutation)
+Mass disarm* (abjuration)
+Phalanx of light* (evocation)
+5th Level
+Arcane hand (evocation)
+Mass cure wounds (evocation)
+Wreck* (evocation)
+6th Level
+Blade barrier (evocation)
+Globe of invulnerability (abjuration)
+Thresh the battlefield* (conjuration)
+7th Level
+Arcane sword (evocation)
+Phantasmal phalanx* (conjuration)
+8th Level
+Antimagic field (abjuration)
+Mighty vessel* (conjuration)
+9th Level
+Horn of heroes* (conjuration)
+Time stop (transmutation)
+Doom Magic
+Cantrips (0 Level)
+Chill touch* (necromancy)
+Hand of doom* (necromancy)
+1st Level
+Bane (enchantment)
+Brimstone* (conjuration)
+Doom of fools* (necromancy)
+Doom of poor fortune* (necromancy)
+Doom of the cracked shield* (transmutation)
+Grim siphon* (necromancy)
+Hellish rebuke (evocation)
+2nd Level
+Doom of consuming fire* (evocation)
+Doom of destiny* (enchantment)
+Doom of the slippery rogue* (conjuration)
+Doomed* (illusion)
+Grave sense* (divination)
+Jerilyn’s cadaverous uprising* (necromancy)
+Ray of enfeeblement (necromancy)
+3rd Level
+Bestow curse (necromancy)
+Damage echo* (transmutation)
+Doom of blue crystal* (transmutation)
+Doom of dancing blades* (illusion)
+Doom of disenchantment* (abjuration)
+Doom of laughter* (enchantment)
+Fear (illusion)
+Forceful repurposing* (abjuration)
+Glimpse the end* (divination)
+Hellfire blitz* (evocation)
+4th Level
+Aura of entropy* (abjuration)
+Blight (necromancy)
+Caustic waste* (evocation)
+Doom of serpent coils* (necromancy)
+Doom of the black river* (transmutation)
+Doom of the earthen maw* (evocation)
+Doom of the pit* (conjuration)
+Servant of doom* (transmutation)
+5th Level
+Detonate corpses* (necromancy)
+Doom of antiquity* (enchantment)
+Insect plague (conjuration)
+Souleater* (evocation)
+6th Level
+Doom of abeyant time* (transmutation)
+Doom of night* (conjuration)
+Doom of stacked stones* (transmutation)
+Investiture of blight* (transmutation)
+7th Level
+Doom of summer years* (transmutation)
+Transmogrification* (transmutation)
+8th Level
+Doom of false fiends* (enchantment)
+Earthquake (evocation)
+Frailform* (enchantment)
+9th Level
+Black hole* (conjuration)
+Dream Magic
+Cantrips (0 Level)
+Dream glimpse* (divination)
+Message (transmutation)
+Minor illusion (illusion)
+1st Level
+Alarm (abjuration)
+Oneiromancy* (divination)
+Sleep (enchantment)
+2nd Level
+Augury (divination)
+Darkness (evocation)
+Detect thoughts (divination)
+3rd Level
+Clairvoyance (divination)
+Dream canopy* (illusion)
+Dreamstride* (illusion)
+Fear (illusion)
+Hypnotic pattern (illusion)
+Major image (illusion)
+Venomous thoughts* (necromancy)
+4th Level
+Divination (divination)
+Dream shear* (illusion)
+Hallucinatory terrain (illusion)
+Shared nightmare* (conjuration)
+Shield of ephemera* (abjuration)
+5th Level
+Commune (divination)
+Contact other plane (divination)
+Dream (illusion)
+Scrying (divination)
+Seeming (illusion)
+6th Level
+Phantasm* (illusion)
+Programmed illusion (illusion)
+7th Level
+Mirage arcane (illusion)
+Project image (illusion)
+8th Level
+Feeblemind (enchantment)
+Mind blank (abjuration)
+9th Level
+Astral projection (necromancy)
+Weird (illusion)
+Fey Magic
+Cantrips (0 Level)
+Dancing lights (evocation)
+Effervesce sense* (transmutation)
+Flowering* (transmutation)
+Minor illusion (illusion)
+1st Level
+Color spray (illusion)
+Dance of the fey* (conjuration)
+Elf shot* (enchantment)
+Florafetter* (conjuration)
+Silent image (illusion)
+2nd Level
+Blur (illusion)
+Goob’s inconvenient gathering* (transmutation)
+Leiloch’s irritating kazoo* (enchantment)
+Radiant rosette* (conjuration)
+Ugly duckling* (enchantment)
+3rd Level
+Faerie toast* (transmutation)
+Flight of ideas* (enchantment)
+Flittering eyes* (transmutation)
+Lost* (enchantment)
+Vanish within* (transmutation)
+4th Level
+Fey tricks* (abjuration)
+Hallucinatory terrain (illusion)
+Lunar transfer* (conjuration)
+Polychromatic bubble* (conjuration)
+5th Level
+Hero of fable* (enchantment)
+Leiloch’s interminable yarn* (enchantment)
+Lost and wandering* (enchantment)
+Seeming (illusion)
+6th Level
+Programmed illusion (illusion)
+True seeing (divination)
+7th Level
+Leiloch’s arduous shuffle* (enchantment)
+Mirage arcane (illusion)
+Oculus blossoms* (divination)
+8th Level
+Glibness (transmutation)
+9th Level
+Chaotic flowerfall* (conjuration)
+Hedge Magic
+Cantrips (0 level)
+Conjure thicket* (conjuration)
+Mage hand (conjuration)
+Prestidigitation (transmutation)
+1st Level
+Entangle (conjuration)
+Jedza’s tidy charm* (enchantment)
+Protection from evil and good (abjuration)
+Unseen servant (conjuration)
+2nd Level
+Arcane lock (abjuration)
+Baba’s pincushion* (conjuration)
+Barkskin (transmutation)
+Rite of rain* (conjuration)
+Spike growth (transmutation)
+3rd Level
+Daisy regrowth* (transmutation)
+Diversion door* (abjuration)
+Magic circle (abjuration)
+Plant growth (transmutation)
+Speak with plants (transmutation)
+4th Level
+Banishment (abjuration)
+Fabricate (transmutation)
+Private sanctum (abjuration)
+5th Level
+Animate objects (transmutation)
+Awaken (transmutation)
+Dispel evil and good (abjuration)
+6th Level
+Guards and wards (abjuration)
+Move earth (transmutation)
+Wall of thorns (conjuration)
+7th Level
+Field of lotuses* (abjuration)
+Symbol (abjuration)
+8th Level
+Earthquake (evocation)
+9th Level
+Imprisonment (abjuration)
+Pestilent Magic
+Cantrips (0 Level)
+Blood purge* (necromancy)
+Illusion of health* (illusion)
+Memento mori* (necromancy)
+Panacea* (abjuration)
+Plague marks* (necromancy)
+Pocketful of posies* (abjuration)
+Wilting breath* (necromancy)
+1st Level
+Detect poison and disease (divination)
+Malaise* (illusion)
+Plague doctor’s call* (divination)
+Withering smite* (necromancy)
+2nd Level
+Blindness/deafness (necromancy)
+Conjure vermin* (conjuration)
+Contagious healing* (evocation)
+Fever’s gift* (divination)
+Plaguebearer* (abjuration)
+Poisonous flesh* (transmutation)
+Stench of rot* (necromancy)
+3rd Level
+Cloak of vermin* (conjuration)
+Plague walk* (necromancy)
+Purge* (necromancy)
+Seeping death* (necromancy)
+4th Level
+Aura of filth* (necromancy)
+Blight (necromancy)
+Create plague zombie* (necromancy)
+Dead man walking* (necromancy)
+Death toll* (necromancy)
+Festering fever* (necromancy)
+5th Level
+Contagion (necromancy)
+Contingency boils* (necromancy)
+Insect plague (conjuration)
+6th Level
+Harm (necromancy)
+Plague hysteria* (necromancy)
+Wave of putrefaction* (necromancy)
+7th Level
+Defile healing* (necromancy)
+Mass contagious healing* (evocation)
+8th Level
+Burst organs* (necromancy)
+Power word plague* (necromancy)
+9th Level
+Power word kill (enchantment)
+Portal Magic
+Cantrips (0 Level)
+Mage hand (conjuration)
+Misstep* (enchantment)
+Spy* (divination)
+1st Level
+Alarm (abjuration)
+Amplify sound (divination)
+Broken charge* (enchantment)
+Sanctuary (abjuration)
+2nd Level
+Arcane lock (abjuration)
+Knock (transmutation)
+Poisoned portal* (conjuration)
+Rope trick (transmutation)
+3rd Level
+Arrow door* (conjuration)
+Dimensional shove* (conjuration)
+Glyph of warding (abjuration)
+Lesser maze* (conjuration)
+Shadow portal* (conjuration)
+4th Level
+Banishment (abjuration)
+Black tentacles (conjuration)
+Labyrinth mastery* (divination)
+Rift* (conjuration)
+Storm door* (conjuration)
+5th Level
+Mass shuffle* (conjuration)
+Passwall (transmutation)
+Teleportation circle (conjuration)
+6th Level
+Dimensional rending* (conjuration)
+Find the path (divination)
+Planar ally (conjuration)
+7th Level
+Nexus* (conjuration)
+Plane shift (conjuration)
+8th Level
+Maze (conjuration)
+9th Level
+Gate (conjuration)
+Greater maze* (conjuration)
+Pyromancy Magic
+Cantrips (0 Level)
+Een’s molten shard* (conjuration)
+Fire bolt (evocation)
+Flame’s kiss* (evocation)
+Smolder* (illusion)
+1st Level
+Ashen lashes* (evocation)
+Burning hands (evocation)
+Curse of sustentation* (evocation)
+Dehydration* (evocation)
+Flamestep* (conjuration)
+2nd Level
+Brilliant harrier* (conjuration)
+Combust the dead* (evocation)
+Continual flame (evocation)
+Court the flame* (abjuration)
+Flaming sphere (conjuration)
+Heartfire* (evocation)
+Magma spray* (evocation)
+Scorching ray (evocation)
+Seeking fire* (divination)
+3rd Level
+Fireball (evocation)
+Flames united* (abjuration)
+Immolating geist* (necromancy)
+Sear* (evocation)
+Vortex of steam* (evocation)
+4th Level
+Fire dance* (illusion)
+Fire shield (evocation)
+Wall of fire (evocation)
+5th Level
+Arrow of ash* (evocation)
+Flame strike (evocation)
+Flamewalk portal* (conjuration)
+6th Level
+Bombard* (evocation)
+Bouncing fireball* (evocation)
+Een’s armor of glass* (conjuration)
+Hearth walk* (conjuration)
+Sunbeam (evocation)
+7th Level
+Fire storm (evocation)
+Flame’s chronicle unleashed* (conjuration)
+8th Level
+Sunburst (evocation)
+9th Level
+Meteor swarm (evocation)
+Ritual Magic
+1st Level
+Alarm (abjuration)
+Comprehend languages (divination)
+Detect magic (divination)
+Detect poison and disease (divination)
+Extract essence* (transmutation)
+Find familiar (conjuration)
+Floating disk (conjuration)
+Guest of honor* (enchantment)
+Identify (divination)
+Illusory script (illusion)
+Purify food and drink (transmutation)
+Speak with animals (divination)
+Unseen servant (conjuration)
+2nd Level
+Animal messenger (enchantment)
+Augury (divination)
+Clearing the field* (transmutation)
+Gentle repose (necromancy)
+Locate animals or plants (divination)
+Magic mouth (illusion)
+Shadows brought to light* (divination)
+Silence (illusion)
+Vine trestle* (conjuration)
+3rd Level
+Meld into stone (transmutation)
+Phantom steed (illusion)
+Song of the forest* (transmutation)
+Tiny hut (evocation)
+Water breathing (transmutation)
+Water walk (transmutation)
+4th Level
+Divination (divination)
+Shadowy retribution* (necromancy)
+5th Level
+Commune (divination)
+Commune with nature (divination)
+Contact other plane (divination)
+Hidden agent* (divination)
+Telepathic bond (divination)
+6th Level
+Encroaching shadows* (illusion)
+Forbiddance (abjuration)
+Instant summons (conjuration)
+7th Level
+Celebration* (enchantment)
+8th Level
+Bloom* (conjuration)
+Desolation* (necromancy)
+9th Level
+Afflict line* (necromancy)
+Saint Magic
+Cantrips (0 Level)
+Biting armor* (conjuration)
+Shackle* (abjuration)
+1st Level
+Aegis of honor* (abjuration)
+Compel mercy* (enchantment)
+Expel heresy* (enchantment)
+Proselytize* (enchantment)
+2nd Level
+Palliative censure* (enchantment)
+Prayer of resolve* (evocation)
+Templar’s bellow* (evocation)
+Templar’s mercy* (evocation)
+3rd Level
+Bury the dead* (abjuration)
+Chaotic contrition* (enchantment)
+Densini’s radiance* (evocation)
+Impaling glory* (evocation)
+Wings of retribution* (evocation)
+4th Level
+Death ward (abjuration)
+Guardian of faith (conjuration)
+Halo of blood and tears* (necromancy)
+5th Level
+Cry of the dragon god* (evocation)
+Field of retribution* (enchantment)
+Zone of radiance* (abjuration)
+6th Level
+Kindness of angels* (conjuration)
+Planar ally (conjuration)
+7th Level
+Heaven’s spear* (evocation)
+8th Level
+Holy aura (abjuration)
+9th Level
+Storm of angels* (conjuration)
+Shadow Magic
+Cantrips (0 Level)
+Claws of darkness* (evocation)
+Douse light* (transmutation)
+Obfuscate object* (illusion)
+Shadow bite* (illusion)
+Shadow blindness* (illusion)
+Silhouette* (illusion)
+1st Level
+Black ribbons* (conjuration)
+Cloak of shadow* (illusion)
+Gloaming* (evocation)
+Lunarbolt waxing* (evocation)
+Shadow armor* (abjuration)
+Shadow hands* (evocation)
+2nd Level
+Clinging shadow* (conjuration)
+Dark path* (conjuration)
+Darkbolt* (evocation)
+Negative image* (conjuration)
+Shadow adaptation* (abjuration)
+Shadow puppets* (illusion)
+Slither* (transmutation)
+3rd Level
+Call shadow mastiff* (conjuration)
+Grim shadows* (conjuration)
+Legion* (conjuration)
+Obviating shadow* (necromancy)
+Shadow tendrils* (necromancy)
+Shadow trove* (transmutation)
+4th Level
+Black hand* (necromancy)
+Hide in one’s shadow* (transmutation)
+Shadow monsters* (illusion)
+Shadow passenger* (transmutation)
+Shadow step* (conjuration)
+Spider song* (conjuration)
+5th Level
+Dark dementing* (illusion)
+Mislead (illusion)
+Seeming (illusion)
+Shadow gateway* (conjuration)
+6th Level
+Become nightwing* (enchantment)
+Black well* (necromancy)
+Ominous shadow* (necromancy)
+Shadow metamorphosis* (transmutation)
+Stygian eye* (necromancy)
+7th Level
+Conjure shadow titan* (conjuration)
+Dying of the light* (evocation)
+8th Level
+Creeping darkness* (conjuration)
+9th Level
+Umbral storm* (necromancy)
+Spirit Magic
+Cantrips (0 Level)
+Guidance (divination)
+Message (transmutation)
+Spare the dying (necromancy)
+1st Level
+Detect evil and good (divination)
+Sanctuary (abjuration)
+Spectral perfume* (abjuration)
+Unseen servant (conjuration)
+Varina’s virtuous valediction* (evocation)
+2nd Level
+Augury (divination)
+Conjure ferryman* (conjuration)
+See invisibility (divination)
+Spirit balm* (conjuration)
+Spiritual weapon (evocation)
+3rd Level
+Apparition’s invitation* (illusion)
+Busy bee* (conjuration)
+Dome of spectral blows* (conjuration)
+Phantom steed (illusion)
+Sending (evocation)
+Spirit guardians (conjuration)
+4th Level
+Conjure woodland beings (conjuration)
+Divination (divination)
+Faithful hound (conjuration)
+Guardian of faith (conjuration)
+Trade corporeality* (transmutation)
+Unnatural causes* (necromancy)
+5th Level
+Commune (divination)
+Commune with nature (divination)
+Contact other plane (divination)
+Uplifting spirit* (conjuration)
+Vengeful spirits* (conjuration)
+6th Level
+Planar ally (conjuration)
+True seeing (divination)
+7th Level
+Etherealness (transmutation)
+Mirage arcane (conjuration)
+8th Level
+Antipathy/sympathy (enchantment)
+9th Level
+Weird (illusion)
+Weather Magic
+Cantrips (0 Level)
+Cecily’s stormshot* (evocation)
+Drizzle* (conjuration)
+Ray of frost (evocation)
+Shocking grasp (evocation)
+Storm mote* (conjuration)
+1st Level
+Feather fall (transmutation)
+Fog cloud (conjuration)
+Thunderwave (evocation)
+2nd Level
+Gift of ice* (abjuration)
+Gust of wind (evocation)
+Shatter (evocation)
+Shamal’s grasp* (conjuration)
+Storm step* (conjuration)
+3rd Level
+Bitter wind* (evocation)
+Call lightning (conjuration)
+Haste (transmutation)
+Miniature hurricane* (evocation)
+4th Level
+Ice storm (evocation)
+Khamsin’s chariot* (conjuration)
+Mudslide* (conjuration)
+5th Level
+Commune with nature (divination)
+Enshroud* (conjuration)
+Wall of stone (evocation)
+6th Level
+Chain lightning (evocation)
+Monsoon* (conjuration)
+Part clouds* (conjuration)
+7th Level
+Storm queen’s children* (conjuration)
+8th Level
+Control weather (transmutation)
+9th Level
+Storm of vengeance (conjuration)
+Alkemancy Magic
+Cantrips (0 Level)
+Acid splash (conjuration)
+Brimstone infusion* (transmutation)
+Poison spray (conjuration)
+1st Level
+Bottomless stomach* (transmutation)
+Fog cloud (conjuration)
+Grease (conjuration)
+2nd Level
+Acid arrow (evocation)
+Boiling oil* (conjuration)
+Delay potion* (transmutation)
+Mephitic croak* (conjuration)
+3rd Level
+Gaseous form (transmutation)
+Gluey globule* (conjuration)
+Salt lash* (conjuration)
+Stinking cloud (conjuration)
+4th Level
+Control water (transmutation)
+Quicksilver mantle* (transmutation)
+Ray of alchemical negation* (transmutation)
+Stoneskin (abjuration)
+5th Level
+Acid rain* (conjuration)
+Bottled arcana* (transmutation)
+Cloudkill (conjuration)
+6th Level
+Alchemical form* (transmutation)
+Flesh to stone (transmutation)
+7th Level
+Acid gate* (conjuration)
+8th Level
+Caustic torrent* (conjuration)
+Life hack* (necromancy)
+9th Level
+Blood to acid* (transmutation)
+Angelic Magic
+Cantrips (0 Level)
+Benediction* (abjuration)
+1st Level
+Angelic guardian* (conjuration)
+2nd Level
+Blessed halo* (evocation)
+3rd Level
+Blade of wrath* (evocation)
+4th Level
+Deva’s wings* (transmutation)
+5th Level
+Blazing chariot* (conjuration)
+6th Level
+Celestial fanfare* (evocation)
+7th Level
+Seal of sanctuary* (abjuration)
+8th Level
+Quintessence* (transmutation)
+9th Level
+Greater seal of sanctuary* (abjuration)
+Blood Magic
+Cantrips (0 Level)
+Blood tide* (necromancy)
+1st Level
+Blood scarab* (necromancy)
+Bloody hands* (necromancy)
+Bloody smite* (necromancy)
+Stanch* (transmutation)
+Weapon of blood* (transmutation)
+2nd Level
+Blood lure* (enchantment)
+Bloodshot* (conjuration)
+Caustic blood* (transmutation)
+3rd Level
+Blood armor* (necromancy)
+Vital mark* (transmutation)
+4th Level
+Blood and steel* (transmutation)
+Blood puppet* (transmutation)
+Blood spoor* (divination)
+Boiling blood* (necromancy)
+5th Level
+Cruor of visions* (divination)
+Exsanguinate* (necromancy)
+Exsanguinating cloud* (necromancy)
+Sanguine horror* (conjuration)
+Chaos Magic
+Cantrips (0 Level)
+Bewilderment* (enchantment)
+1st Level
+Ill-fated word* (divination)
+Roaming pain* (necromancy)
+Undermine armor* (transmutation)
+Unruly item* (transmutation)
+2nd Level
+Bad timing* (divination)
+Chaotic vitality* (conjuration)
+Elemental twist* (evocation)
+Frenzied bolt* (evocation)
+Mist of wonders* (conjuration)
+Shifting the odds* (divination)
+Timely distraction* (evocation)
+3rd Level
+Calm of the storm* (abjuration)
+Entropic damage field* (transmutation)
+Surge dampener* (abjuration)
+4th Level
+Chaotic form* (transmutation)
+Confusion (enchantment)
+Fluctuating alignment* (enchantment)
+Wild shield* (abjuration)
+5th Level
+Babble* (enchantment)
+Mass surge dampener* (abjuration)
+6th LevelChaotic world* (illusion)
+Misfortune* (necromancy)
+7th Level
+Prismatic spray (evocation)
+Uncontrollable transformation* (transmutation)
+Wild trajectory* (transmutation)
+8th Level
+Paragon of chaos* (transmutation)
+Roaring winds of Limbo* (conjuration)
+9th Level
+Unshackled magic* (enchantment)
+Dragon Magic
+Cantrips (0 Level)
+Dragon roar* (evocation)
+Puff of smoke* (evocation)
+Thunder bolt* (evocation)
+1st Level
+Converse with dragon* (divination)
+Draconic smite* (evocation)
+Kobold’s fury* (transmutation)
+Waft* (transmutation)
+2nd Level
+Detect dragons* (divination)
+Enhance greed* (divination)
+Lair sense* (divination)
+Shade* (abjuration)
+Treasure chasm* (enchantment)
+3rd Level
+Catch the breath* (transmutation)
+Draconic majesty* (enchantment)
+Dragon’s pride* (enchantment)
+Phantom dragon* (illusion)
+4th Level
+Draconic senses* (divination)
+Overwhelming greed* (enchantment)
+Raid the lair* (abjuration)
+Scale rot* (necromancy)
+Scaly hide* (transmutation)
+Torrent of fire* (conjuration)
+5th Level
+Claws of the earth dragon* (evocation)
+Dragon breath* (evocation)
+Thunderstorm* (transmutation)
+6th Level
+Cave dragon’s dominance* (transmutation)
+Claim lair* (abjuration)
+Fire dragon’s fury* (transmutation)
+Mithral dragon’s might* (transmutation)
+7th Level
+Aspect of the dragon* (transmutation)
+Legend killer* (divination)
+8th Level
+Deadly sting* (transmutation)
+Fiendish Magic
+Cantrips (0 Level)
+Decay* (necromancy)
+1st Level
+Hellish rebuke (evocation)
+Mammon’s avarice* (divination)
+Protection from evil and good (abjuration)
+2nd Level
+Cloak of fiendish menace* (transmutation)
+Darkness (evocation)
+Enthrall (enchantment)
+Suggestion (enchantment)
+3rd Level
+Chains of perdition* (conjuration)
+Demon within* (conjuration)
+Magic circle (abjuration)
+Nest of infernal vipers* (conjuration)
+Wave of corruption* (necromancy)
+4th Level
+Banishment (abjuration)
+Conjure fiends* (conjuration)
+Fire shield (evocation)
+Tome curse* (necromancy)
+5th Level
+Channel fiendish power* (transmutation)
+Conjure nightmare* (conjuration)
+Contact other plane (divination)
+Dark lord’s mantle* (enchantment)
+Dominate person (enchantment)
+Fiendish brand* (necromancy)
+Planar binding (abjuration)
+6th Level
+Aura of wrath* (enchantment)
+Forbiddance (abjuration)
+Mass suggestion (enchantment)
+Planar ally (conjuration)
+7th Level
+Plane shift (conjuration)
+8th Level
+Dominate monster (enchantment)
+9th Level
+Imprisonment (abjuration)
+Frost Magic
+Cantrips (0 Level)
+Biting arrow* (evocation)
+Ray of frost (evocation)
+Shiver* (evocation)
+1st Level
+Boreas’s kiss* (conjuration)
+Breathtaking wind* (evocation)
+Flurry* (transmutation)
+Freeze potion* (transmutation)
+Icicle daggers* (conjuration)
+Snowy coat* (transmutation)
+2nd Level
+Creeping ice* (conjuration)
+Ice hammer* (conjuration)
+Sculpt snow* (transmutation)
+Sheen of ice* (evocation)
+Snow fort* (conjuration)
+3rd Level
+Freeze blood* (transmutation)
+Ice burn* (conjuration)
+Protective ice* (abjuration)
+Sleet storm (conjuration)
+Steal warmth* (necromancy)
+4th Level
+Boreas’s embrace* (conjuration)
+Brittling* (transmutation)
+Deep freeze* (evocation)
+Evercold* (necromancy)
+Fusillade of ice* (evocation)
+Ice storm (evocation)
+Snow boulder* (transmutation)
+Wintry glide* (conjuration)
+5th Level
+Clash of glaciers* (evocation)
+Cone of cold (evocation)
+Control ice* (transmutation)
+Frostbite* (evocation)
+Ice fortress* (conjuration)
+6th Level
+Curse of Boreas* (transmutation)
+Freezing sphere (evocation)
+Wall of ice (evocation)
+Winter’s radiance* (evocation)
+Winterdark* (transmutation)
+7th Level
+Blizzard* (conjuration)
+Glacial fog* (evocation)
+Triumph of ice* (transmutation)
+8th Level
+Glacial cascade* (evocation)
+9th Level
+Crystal confinement* (abjuration)
+Illumination Magic
+Cantrips (0 Level)
+Bright sparks* (evocation)
+Light (evocation)
+Luminous Bolt* (evocation)
+Starburst* (evocation)
+1st Level
+Amplify light* (transmutation)
+Faerie fire (evocation)
+Guiding bolt (evocation)
+Guiding star* (divination)
+2nd Level
+Continual flame (evocation)
+Intensify light* (transmutation)
+Orb of light* (evocation)
+Phantom light (illusion)
+3rd Level
+Daylight (evocation)
+Protective nimbus* (abjuration)
+Shield of starlight* (abjuration)
+Tracking beacon* (divination)
+4th Level
+Searing sun* (transmutation)
+5th Level
+Greater protective nimbus* (abjuration)
+Radiant beacon* (evocation)
+Starfall* (evocation)
+6th Level
+Burning radiance* (evocation)
+7th Level
+Last rays of the dying sun* (evocation)
+Soothing incandescence* (evocation)
+8th Level
+Child of light and darkness* (transmutation)
+Summon star* (conjuration)
+Sunburst (evocation)
+9th Level
+Star’s heart* (transmutation)
+Mythos Magic
+Cantrips (0 Level)
+Black Goat’s blessing* (enchantment)
+Semblance of dread* (illusion)
+1st Level
+Voorish sign* (divination)
+2nd Level
+Ectoplasm* (necromancy)
+3rd Level
+Mind exchange* (transmutation)
+Sleep of the deep* (illusion)
+Unseen strangler* (conjuration)
+4th Level
+Emanation of Yoth* (necromancy)
+Green decay* (necromancy)
+Hunger of Leng* (enchantment)
+Yellow sign* (enchantment)
+5th Level
+Curse of Yig* (transmutation)
+Eldritch communion* (divination)
+Summon eldritch servitor* (conjuration)
+6th Level
+Warp mind and matter* (transmutation)
+7th Level
+Sign of Koth* (abjuration)
+8th Level
+Seed of destruction* (enchantment)
+9th Level
+Summon avatar* (conjuration)
+Ring Magic
+Cantrips (0 Level)
+Hoarfrost* (evocation)
+1st Level
+Circle of wind* (abjuration)
+Ring strike* (transmutation)
+2nd Level
+Bitter chains* (transmutation)
+Reverberate* (evocation)
+3rd Level
+Innocuous aspect* (illusion)
+4th Level
+Spinning axes* (evocation)
+5th Level
+Curse ring* (necromancy)
+6th Level
+Enchant ring* (enchantment)
+7th Level
+Ring ward* (abjuration)
+8th Level
+Create ring servant* (transmutation)
+9th Level
+Circle of devastation* (evocation)
+Temporal Magic
+Cantrip (0 Level)
+Clockwork bolt* (evocation)
+Fist of iron* (transmutation)
+Guidance (divination)
+Mending (transmutation)
+Quicken* (transmutation)
+1st Level
+Analyze device* (divination)
+Anticipate weakness* (divination)
+Auspicious warning* (enchantment)
+Chronal lance* (transmutation)
+Feather fall (transmutation)
+Foretell distraction* (divination)
+Grease (conjuration)
+Pendulum* (enchantment)
+Seer’s reaction* (divination)
+Tireless* (transmutation)
+2nd Level
+Anticipate attack* (divination)
+Arcane lock (abjuration)
+Decelerate* (transmutation)
+Gear barrage* (conjuration)
+Gentle repose (necromancy)
+Greater analyze device* (divination)
+Heartstop* (necromancy)
+Knock (transmutation)
+Locate object (divination)
+Lock armor* (transmutation)
+Spin* (enchantment)
+Time step* (conjuration)
+3rd Level
+Accelerate* (transmutation)
+Anticipate arcana* (divination)
+Haste (transmutation)
+Slow (transmutation)
+Thousand darts* (evocation)
+4th Level
+Flickering fate* (divination)
+Quick time* (conjuration)
+Reset* (transmutation)
+Scry ambush* (divination)
+Steam blast* (evocation)
+Time vortex* (evocation)
+5th Level
+Chains of the goddess* (enchantment)
+Clockwork bodyguard* (conjuration)
+Modify memory (enchantment)
+Wall of time* (abjuration)
+6th Level
+Catapult* (transmutation)
+Time loop* (transmutation)
+7th Level
+Alter time flow* (transmutation)
+Ravages of time* (transmutation)
+Right the stars* (divination)
+Time jaunt* (transmutation)
+8th Level
+Steam whistle* (evocation)
+Time jump* (transmutation)
+Time slippage* (enchantment)
+9th Level
+Time in a bottle* (transmutation)
+Time stop (transmutation)
