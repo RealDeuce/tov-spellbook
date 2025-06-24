@@ -140,6 +140,7 @@ export default {
       "ritual" : false,
       "school" : "evocation",
       "sources" : [
+         "TOM",
          "DM1"
       ],
       "styles" : []
@@ -979,6 +980,7 @@ export default {
       "ritual" : false,
       "school" : "enchantment",
       "sources" : [
+         "TOM",
          "DM1"
       ],
       "styles" : []
@@ -2724,6 +2726,7 @@ export default {
       "ritual" : false,
       "school" : "enchantment",
       "sources" : [
+         "TOM",
          "DM1"
       ],
       "styles" : []
@@ -4414,6 +4417,16 @@ export default {
          "dream"
       ]
    },
+   "feed the forest" : {
+      "circle" : 1,
+      "name" : "feed the forest",
+      "ritual" : false,
+      "school" : "evocation",
+      "sources" : [
+         "TOM"
+      ],
+      "styles" : []
+   },
    "feed the worms" : {
       "circle" : 1,
       "name" : "feed the worms",
@@ -5246,6 +5259,7 @@ export default {
       "ritual" : true,
       "school" : "illusion",
       "sources" : [
+         "TOM",
          "DM1"
       ],
       "styles" : []
@@ -5503,6 +5517,7 @@ export default {
       "ritual" : false,
       "school" : "evocation",
       "sources" : [
+         "TOM",
          "DM1"
       ],
       "styles" : []
@@ -5557,6 +5572,7 @@ export default {
       "ritual" : false,
       "school" : "enchantment",
       "sources" : [
+         "TOM",
          "DM1"
       ],
       "styles" : []
@@ -5567,6 +5583,7 @@ export default {
       "ritual" : false,
       "school" : "enchantment",
       "sources" : [
+         "TOM",
          "DM1"
       ],
       "styles" : []
@@ -5786,6 +5803,7 @@ export default {
       "ritual" : false,
       "school" : "evocation",
       "sources" : [
+         "TOM",
          "DM1"
       ],
       "styles" : []
@@ -6573,9 +6591,10 @@ export default {
    "looping trail" : {
       "circle" : 4,
       "name" : "looping trail",
-      "ritual" : false,
+      "ritual" : true,
       "school" : "transmutation",
       "sources" : [
+         "TOM",
          "DM1"
       ],
       "styles" : []
@@ -6831,6 +6850,16 @@ export default {
       "school" : "conjuration",
       "sources" : [
          "DM1"
+      ],
+      "styles" : []
+   },
+   "mark prey" : {
+      "circle" : 2,
+      "name" : "mark prey",
+      "ritual" : false,
+      "school" : "divination",
+      "sources" : [
+         "TOM"
       ],
       "styles" : []
    },
@@ -7343,6 +7372,16 @@ export default {
       "school" : "transmutation",
       "sources" : [
          "DM1"
+      ],
+      "styles" : []
+   },
+   "nip at the heels" : {
+      "circle" : 2,
+      "name" : "nip at the heels",
+      "ritual" : false,
+      "school" : "illusion",
+      "sources" : [
+         "TOM"
       ],
       "styles" : []
    },
@@ -9472,6 +9511,7 @@ export default {
       "ritual" : false,
       "school" : "transmutation",
       "sources" : [
+         "TOM",
          "DM1"
       ],
       "styles" : []
@@ -9616,6 +9656,7 @@ export default {
       "ritual" : false,
       "school" : "transmutation",
       "sources" : [
+         "TOM",
          "DM1"
       ],
       "styles" : []
@@ -10213,6 +10254,16 @@ export default {
       "school" : "necromancy",
       "sources" : [
          "DM1"
+      ],
+      "styles" : []
+   },
+   "tracer" : {
+      "circle" : 3,
+      "name" : "tracer",
+      "ritual" : false,
+      "school" : "divination",
+      "sources" : [
+         "TOM"
       ],
       "styles" : []
    },
