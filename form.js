@@ -64,11 +64,11 @@ function generate() {
 
 // Fill out the form...
 
-for (const style of summary.styles) {
+for (const style of summary.styles.sort()) {
 	addOpt(styleOpt, style);
 }
 
-for (const school of summary.schools) {
+for (const school of summary.schools.sort()) {
 	addOpt(schoolOpt, school);
 }
 
