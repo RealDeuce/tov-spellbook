@@ -107,50 +107,66 @@ Earthquake (evocation)
 Frailform* (enchantment)
 9th Level
 Black hole* (conjuration)
+
 Dream Magic
 Cantrips (0 Level)
+Influence* (Enchantment)
 Dream glimpse* (divination)
 Message (transmutation)
 Minor illusion (illusion)
 1st Level
 Alarm (abjuration)
+Dreamspan* (Evocation)
+Ruminate* (Enchantment)
 Oneiromancy* (divination)
 Sleep (enchantment)
 2nd Level
 Augury (divination)
 Darkness (evocation)
 Detect thoughts (divination)
+Dream Lance* (Enchantment)
+Locate (Divination)
 3rd Level
 Clairvoyance (divination)
+Dreamward* (Abjuration)
+Dream Step* (Illusion)
 Dream canopy* (illusion)
 Dreamstride* (illusion)
 Fear (illusion)
 Hypnotic pattern (illusion)
 Major image (illusion)
 Venomous thoughts* (necromancy)
+Structured Mind* (Abjuration)
+Virulent Nightmare* (Enchantment)
 4th Level
+Briar Rose (Enchantment)
 Divination (divination)
 Dream shear* (illusion)
 Hallucinatory terrain (illusion)
+Phantasmal Killer (Illusion)
 Shared nightmare* (conjuration)
 Shield of ephemera* (abjuration)
 5th Level
 Commune (divination)
 Contact other plane (divination)
 Dream (illusion)
+Modify Memory (Enchantment)
 Scrying (divination)
 Seeming (illusion)
 6th Level
+Magic Jar (Necromancy)
 Phantasm* (illusion)
 Programmed illusion (illusion)
 7th Level
 Mirage arcane (illusion)
 Project image (illusion)
+Vision Voyage* (Conjuration)
 8th Level
 Feeblemind (enchantment)
 Mind blank (abjuration)
 9th Level
 Astral projection (necromancy)
+Foresight (Divination)
 Weird (illusion)
 Fey Magic
 Cantrips (0 Level)
@@ -297,25 +313,32 @@ Spy* (divination)
 Alarm (abjuration)
 Amplify sound (divination)
 Broken charge* (enchantment)
+Discern Portals and Gates* (Divination)
 Sanctuary (abjuration)
 2nd Level
 Arcane lock (abjuration)
 Knock (transmutation)
+Misty Step (Conjuration)
 Poisoned portal* (conjuration)
 Rope trick (transmutation)
 3rd Level
 Arrow door* (conjuration)
+Conjure Ferryman* (conjuration)
 Dimensional shove* (conjuration)
 Glyph of warding (abjuration)
 Lesser maze* (conjuration)
+Minor Maze* (Conjuration)
+Pocket Portal* (Conjuration)
 Shadow portal* (conjuration)
 4th Level
 Banishment (abjuration)
 Black tentacles (conjuration)
+Dimension Door (Conjuration)
 Labyrinth mastery* (divination)
 Rift* (conjuration)
 Storm door* (conjuration)
 5th Level
+Hidden Path* (Conjuration)
 Mass shuffle* (conjuration)
 Passwall (transmutation)
 Teleportation circle (conjuration)
@@ -326,6 +349,8 @@ Planar ally (conjuration)
 7th Level
 Nexus* (conjuration)
 Plane shift (conjuration)
+Sequester (Transmutation)
+Teleport (Conjuration)
 8th Level
 Maze (conjuration)
 9th Level
@@ -872,19 +897,27 @@ Triumph of ice* (transmutation)
 Glacial cascade* (evocation)
 9th Level
 Crystal confinement* (abjuration)
+
 Illumination Magic
 Cantrips (0 Level)
 Bright sparks* (evocation)
+Dancing Lights (Evocation)
 Light (evocation)
 Luminous Bolt* (evocation)
+Pernicious Radiance* (Evocation)
 Starburst* (evocation)
 1st Level
 Amplify light* (transmutation)
+Color Spray (Illusion)
 Faerie fire (evocation)
 Guiding bolt (evocation)
 Guiding star* (divination)
 2nd Level
 Continual flame (evocation)
+Darkness (Evocation)
+Darkvision (Transmutation)
+Luminous Smite* (Evocation)
+Moonbeam (Evocation)
 Intensify light* (transmutation)
 Orb of light* (evocation)
 Phantom light (illusion)
@@ -892,24 +925,33 @@ Phantom light (illusion)
 Daylight (evocation)
 Protective nimbus* (abjuration)
 Shield of starlight* (abjuration)
+Star’s Radiance (Abjuration)
 Tracking beacon* (divination)
 4th Level
 Searing sun* (transmutation)
+Mass Faerie Fire (Evocation)
 5th Level
 Greater protective nimbus* (abjuration)
 Radiant beacon* (evocation)
 Starfall* (evocation)
+Starbright* (Evocation)
 6th Level
 Burning radiance* (evocation)
+Prismatic Longbow* (Evocation)
+Sunbeam (Evocation)
 7th Level
 Last rays of the dying sun* (evocation)
 Soothing incandescence* (evocation)
+Prismatic Spray (Evocation)
 8th Level
 Child of light and darkness* (transmutation)
 Summon star* (conjuration)
 Sunburst (evocation)
 9th Level
 Star’s heart* (transmutation)
+Prismatic Wall (Evocation)
+Sun Cycle* (Transmutation)
+
 Mythos Magic
 Cantrips (0 Level)
 Black Goat’s blessing* (enchantment)
@@ -1026,3 +1068,119 @@ Time slippage* (enchantment)
 9th Level
 Time in a bottle* (transmutation)
 Time stop (transmutation)
+
+Clockwork Magic
+Cantrips
+Corrosion* (Transmutation)
+Mending (Transmutation)
+Shillelagh (Transmutation)
+Swift Stash* (Conjuration)
+1st Circle
+Fling* (Transmutation)
+Floating Disk (Conjuration)
+Grease (Conjuration)
+Identify (Divination)
+2nd Circle
+Heat Metal (Transmutation)
+Magnetize* (Transmutation)
+Gear Barrage (Conjuration)
+Glitter Dust* (Evocation)
+Shatter (Evocation)
+3rd Circle
+Column of Cogs* (Conjuration)
+Tiny Hut (Evocation)
+4th Circle
+Bladed Wings* (Transmutation)
+Fabricate (Transmutation)
+Stone Shape (Transmutation)
+5th Circle
+Animate Objects (Transmutation)
+Creation (Illusion)
+Create Construct* (Transmutation)
+Detonate Metal* (Evocation)
+6th Circle
+Disintegrate (Transmutation)
+7th Circle
+Forcecage (Evocation)
+War Vessel* (Conjuration)
+9th Circle
+Time Stop (Transmutation)
+Void Magic
+Cantrips
+Crushing Curse* (Enchantment)
+Vicious Mockery (Enchantment)
+Word of Misfortune* (Enchantment)
+1st Circle
+Bane (Enchantment)
+Enthrall (Enchantment)
+Protection from the Void* (Abjuration)
+Sapping Smite* (Evocation)
+2nd Circle
+Destructive Resonance* (Enchantment)
+Maddening Whispers* (Enchantment)
+Enthrall (Enchantment)
+Ray of Enfeeblement (Necromancy)
+3rd Circle
+Bestow Curse (Necromancy)
+Fear (Illusion)
+Void Strike* (Evocation)
+4th Circle
+Confusion (Enchantment)
+Blight (Necromancy)
+Nether Weapon* (Enchantment)
+5th Circle
+Conjure Minor Voidborn* (Conjuration)
+Contact Other Plane (Divination)
+6th Circle
+Life Drain* (Necromancy)
+Void Rift* (Evocation)
+7th Circle
+Conjure Voidborn* (Conjuration)
+Transmogrification (Transmutation)
+8th Circle
+Glimpse of the Void* (Enchantment)
+9th Circle
+Unfathomable Emptiness* (Divination)
+Ward Magic
+Cantrips
+Doorbind* (Abjuration)
+Resistance (Abjuration)
+1st Circle
+Mage Armor (Abjuration)
+Protection From Evil and Good (Abjuration)
+Sanctuary (Abjuration)
+Shield (Abjuration)
+2nd Circle
+Arcanist’s Magic Aura (Abjuration)
+Feather Guard* (Abjuration)
+Protection From Poison (Abjuration)
+Warding Bond (Abjuration)
+3rd Circle
+Glyph of Warding (Abjuration)
+Golden Bull* (Abjuration)
+Magic Circle (Abjuration)
+Protection from Energy (Abjuration)
+Nondetection (Abjuration)
+4th Circle
+Castigation Glyph* (Abjuration)
+Death Ward (Abjuration)
+Freedom of Movement (Abjuration)
+Resilient Sphere (Evocation)
+5th Circle
+Antilife Shell (Abjuration)
+Planar Binding (Abjuration)
+Private Sanctum (Abjuration)
+Wall of Force (Evocation)
+6th Circle
+Blade Barrier (Evocation)
+Contingency (Evocation)
+Globe of Invulnerability (Abjuration)
+Guards and Wards (Abjuration)
+7th Circle
+Symbol (Abjuration)
+8th Circle
+Antimagic Field (Abjuration)
+Mind Blank (Abjuration)
+9th Circle
+Forbiddance (Abjuration)
+Prismatic Wall (Abjuration)

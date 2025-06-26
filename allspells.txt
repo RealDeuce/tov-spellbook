@@ -230,6 +230,10 @@ Dreamspan (Evocation) (ritual) [LW]
 Agonizing Mark (Evocation) [TOM, DM1]
 Feed the Forest (Evocation) [TOM]
 Step Like Me (Transmutation) [TOM, DM1]
+Arcane Pavis (Abjuration) [CB:C&C]
+Angelic Aspect (Transmutation) [CB:D&R]
+Aura of Alertness (Transmutation) [CB:D&R]
+Increase Mass (Transmutation) [CB:D&R]
 
 2nd Level
 
@@ -412,6 +416,10 @@ Bleating Call (Enchantment) [TOM, DM1]
 Mark Prey (Divination) [TOM]
 Nip at the Heels (Illusion) [TOM]
 Spy My Shadow (Transmutation) [TOM, DM1]
+Decoy (Illusion) [CB:C&C]
+Protective Trap (Transmutation) [CB:C&C]
+Precognitive Ward (Abjuration) (ritual) [CB:C&C]
+Alter Aura (Transmutation) [CB:D&R]
 
 3rd Level
 
@@ -572,6 +580,7 @@ Dream Step (Illusion) (ritual) [LW]
 Cynophobia (Enchantment) [TOM, DM1]
 Tracer (Divination) [TOM]
 Going in Circles (Illusion) (ritual) [TOM, DM1]
+Sudden Swap (Conjuration) [CB:D&R]
 
 4th Level
 
@@ -708,6 +717,10 @@ Spectral Wall (Necromancy) [LW]
 Wield Soul (Necromancy) [LW]
 Harry (Enchantment) [TOM, DM1]
 Looping Trail (Transmutation) (ritual) [TOM, DM1]
+Become Shadow (Transmutation) [CB:D&R]
+Elemental Perfusion (Transmutation) [CB:D&R]
+Scouring Wind (Evocation) [CB:D&R]
+Wall of Darkness (Evocation) [CB:D&R]
 
 5th Level
 
@@ -810,6 +823,7 @@ Flash Freeze (Evocation) [LW]
 Starbright (Evocation) [LW]
 Hidden Path (Conjuration) (ritual) [LW]
 Harrying Hounds (Enchantment) [TOM, DM1]
+Wall of Spirits (Necromancy) [CB:D&R]
 
 6th Level
 
@@ -941,6 +955,7 @@ Conjure Voidborn (Conjuration) [LW]
 Event Horizon (Evocation) [LW]
 Petrifying Chains (Evocation) [LW]
 War Vessel (Conjuration) (ritual) [LW]
+Time Skip (Transmutation) [CB:D&R]
 
 8th Level
 

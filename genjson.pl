@@ -60,10 +60,10 @@ while (<IN>) {
 	next if /^\s*$/;
 	s/´/'/g;
 	s/’/'/g;
-	if (/^Cantrips? \(0 Level\)$/i) {
+	if (/^Cantrips?(?: \(0 Level\))?$/i) {
 		$level = 0;
 	}
-	elsif (/([0-9]+)(?:st|nd|rd|th) Level$/i) {
+	elsif (/([0-9]+)(?:st|nd|rd|th) (?:Level|Circle)$/i) {
 		$level = $1 + 0;
 	}
 	elsif (/^(.*) Magic$/) {

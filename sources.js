@@ -29,4 +29,14 @@ export default [
 		'name': 'Labyrinth Worldbook',
 		'enabled': true
 	},
+	{
+		'source': 'CB:C&C',
+		'name': 'Campaign Builder: Castles and Crowns',
+		'enabled': true
+	},
+	{
+		'source': 'CB:D&R',
+		'name': 'Campaign Builder: Dungeons and Ruins',
+		'enabled': true
+	}
 ];

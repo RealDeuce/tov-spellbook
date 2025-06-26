@@ -222,6 +222,16 @@ export default {
       ],
       "styles" : []
    },
+   "alter aura" : {
+      "circle" : 2,
+      "name" : "alter aura",
+      "ritual" : false,
+      "school" : "transmutation",
+      "sources" : [
+         "CB:D&R"
+      ],
+      "styles" : []
+   },
    "althea's travel tent" : {
       "circle" : 2,
       "name" : "althea's travel tent",
@@ -298,6 +308,16 @@ export default {
       ],
       "styles" : []
    },
+   "angelic aspect" : {
+      "circle" : 1,
+      "name" : "angelic aspect",
+      "ritual" : false,
+      "school" : "transmutation",
+      "sources" : [
+         "CB:D&R"
+      ],
+      "styles" : []
+   },
    "angelic guardian" : {
       "circle" : 1,
       "name" : "angelic guardian",
@@ -351,7 +371,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "hedge"
+         "hedge",
+         "clockwork"
       ]
    },
    "animated object swarm" : {
@@ -420,7 +441,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "battle"
+         "battle",
+         "ward"
       ]
    },
    "antipathy/sympathy" : {
@@ -507,6 +529,16 @@ export default {
       ],
       "styles" : []
    },
+   "arcane pavis" : {
+      "circle" : 1,
+      "name" : "arcane pavis",
+      "ritual" : false,
+      "school" : "abjuration",
+      "sources" : [
+         "CB:C&C"
+      ],
+      "styles" : []
+   },
    "arcane sight" : {
       "circle" : 8,
       "name" : "arcane sight",
@@ -539,7 +571,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "ward"
+      ]
    },
    "arrow door" : {
       "circle" : 3,
@@ -619,6 +653,16 @@ export default {
       "styles" : [
          "dream"
       ]
+   },
+   "aura of alertness" : {
+      "circle" : 1,
+      "name" : "aura of alertness",
+      "ritual" : false,
+      "school" : "transmutation",
+      "sources" : [
+         "CB:D&R"
+      ],
+      "styles" : []
    },
    "aura of listlessness" : {
       "circle" : 3,
@@ -776,6 +820,16 @@ export default {
       "styles" : [
          "shadow"
       ]
+   },
+   "become shadow" : {
+      "circle" : 4,
+      "name" : "become shadow",
+      "ritual" : false,
+      "school" : "transmutation",
+      "sources" : [
+         "CB:D&R"
+      ],
+      "styles" : []
    },
    "bedazzling charm" : {
       "circle" : 2,
@@ -937,7 +991,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "battle"
+         "battle",
+         "ward"
       ]
    },
    "blade of wrath" : {
@@ -960,7 +1015,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "clockwork"
+      ]
    },
    "blazing chariot" : {
       "circle" : 5,
@@ -2093,7 +2150,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "fey"
+         "fey",
+         "illumination"
       ]
    },
    "column of cogs" : {
@@ -2104,7 +2162,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "clockwork"
+      ]
    },
    "combust the dead" : {
       "circle" : 2,
@@ -2215,7 +2275,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "chaos"
+         "chaos",
+         "void"
       ]
    },
    "conjure elemental" : {
@@ -2239,6 +2300,7 @@ export default {
          "LW"
       ],
       "styles" : [
+         "portal",
          "spirit"
       ]
    },
@@ -2303,7 +2365,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "void"
+      ]
    },
    "conjure nightmare" : {
       "circle" : 5,
@@ -2379,7 +2443,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "void"
+      ]
    },
    "contact other plane" : {
       "circle" : 5,
@@ -2394,7 +2460,8 @@ export default {
          "dream",
          "ritual",
          "spirit",
-         "fiendish"
+         "fiendish",
+         "void"
       ]
    },
    "contingency" : {
@@ -2406,7 +2473,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "ward"
+      ]
    },
    "continual flame" : {
       "circle" : 2,
@@ -2464,7 +2533,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "clockwork"
+      ]
    },
    "corrupting sheath" : {
       "circle" : 2,
@@ -2497,7 +2568,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "clockwork"
+      ]
    },
    "create familiar" : {
       "circle" : 1,
@@ -2562,7 +2635,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "clockwork"
+      ]
    },
    "creeping darkness" : {
       "circle" : 8,
@@ -2618,7 +2693,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "void"
+      ]
    },
    "crystal confinement" : {
       "circle" : 9,
@@ -2775,7 +2852,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "fey"
+         "fey",
+         "illumination"
       ]
    },
    "dark dementing" : {
@@ -2847,7 +2925,8 @@ export default {
       ],
       "styles" : [
          "dream",
-         "fiendish"
+         "fiendish",
+         "illumination"
       ]
    },
    "darkvision" : {
@@ -2859,7 +2938,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "illumination"
+      ]
    },
    "dash of the sentinel" : {
       "circle" : 5,
@@ -2936,6 +3017,16 @@ export default {
       "styles" : [
          "temporal"
       ]
+   },
+   "decoy" : {
+      "circle" : 2,
+      "name" : "decoy",
+      "ritual" : false,
+      "school" : "illusion",
+      "sources" : [
+         "CB:C&C"
+      ],
+      "styles" : []
    },
    "deep breath" : {
       "circle" : 1,
@@ -3077,7 +3168,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "void"
+      ]
    },
    "detect dragons" : {
       "circle" : 2,
@@ -3147,7 +3240,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "clockwork"
+      ]
    },
    "deva's wings" : {
       "circle" : 4,
@@ -3170,7 +3265,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "portal"
+      ]
    },
    "dimensional rending" : {
       "circle" : 6,
@@ -3236,7 +3333,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "clockwork"
+      ]
    },
    "dispel magic" : {
       "circle" : 3,
@@ -3554,7 +3653,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "ward"
+      ]
    },
    "douse light" : {
       "circle" : 0,
@@ -3711,7 +3812,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "dream"
+      ]
    },
    "dream shear" : {
       "circle" : 4,
@@ -3733,7 +3836,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "dream"
+      ]
    },
    "dreamspan" : {
       "circle" : 1,
@@ -3743,7 +3848,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "dream"
+      ]
    },
    "dreamstride" : {
       "circle" : 3,
@@ -3765,7 +3872,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "dream"
+      ]
    },
    "drizzle" : {
       "circle" : 0,
@@ -3967,6 +4076,16 @@ export default {
       "school" : "transmutation",
       "sources" : [
          "DM2"
+      ],
+      "styles" : []
+   },
+   "elemental perfusion" : {
+      "circle" : 4,
+      "name" : "elemental perfusion",
+      "ritual" : false,
+      "school" : "transmutation",
+      "sources" : [
+         "CB:D&R"
       ],
       "styles" : []
    },
@@ -4322,7 +4441,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "hedge"
+         "hedge",
+         "clockwork"
       ]
    },
    "false life" : {
@@ -4357,7 +4477,8 @@ export default {
       ],
       "styles" : [
          "doom",
-         "dream"
+         "dream",
+         "void"
       ]
    },
    "feast of flesh" : {
@@ -4714,7 +4835,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "clockwork"
+      ]
    },
    "floating disk" : {
       "circle" : 1,
@@ -4726,7 +4849,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "ritual"
+         "ritual",
+         "clockwork"
       ]
    },
    "florafetter" : {
@@ -4797,7 +4921,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "clockwork"
+      ]
    },
    "forceful repurposing" : {
       "circle" : 3,
@@ -4820,7 +4946,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "dream"
+      ]
    },
    "forest affinity" : {
       "circle" : 1,
@@ -4896,7 +5024,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "battle"
+         "battle",
+         "ward"
       ]
    },
    "freeze blood" : {
@@ -5048,7 +5177,8 @@ export default {
          "DM1"
       ],
       "styles" : [
-         "temporal"
+         "temporal",
+         "clockwork"
       ]
    },
    "geas" : {
@@ -5149,7 +5279,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "void"
+      ]
    },
    "glimpse the end" : {
       "circle" : 3,
@@ -5171,7 +5303,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "clockwork"
+      ]
    },
    "gloaming" : {
       "circle" : 1,
@@ -5195,7 +5329,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "battle"
+         "battle",
+         "ward"
       ]
    },
    "gloomwrought barrier" : {
@@ -5240,7 +5375,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "portal"
+         "portal",
+         "ward"
       ]
    },
    "goat's hoof charm" : {
@@ -5328,7 +5464,8 @@ export default {
       ],
       "styles" : [
          "alkemancy",
-         "temporal"
+         "temporal",
+         "clockwork"
       ]
    },
    "greater analyze device" : {
@@ -5457,7 +5594,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "hedge"
+         "hedge",
+         "ward"
       ]
    },
    "guest of honor" : {
@@ -5676,7 +5814,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "clockwork"
+      ]
    },
    "heavenly crown" : {
       "circle" : 6,
@@ -5760,7 +5900,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "portal"
+      ]
    },
    "hide in one's shadow" : {
       "circle" : 4,
@@ -5954,7 +6096,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "ritual"
+         "ritual",
+         "clockwork"
       ]
    },
    "ill-fated word" : {
@@ -6061,6 +6204,16 @@ export default {
       ],
       "styles" : []
    },
+   "increase mass" : {
+      "circle" : 1,
+      "name" : "increase mass",
+      "ritual" : false,
+      "school" : "transmutation",
+      "sources" : [
+         "CB:D&R"
+      ],
+      "styles" : []
+   },
    "indecision" : {
       "circle" : 2,
       "name" : "indecision",
@@ -6089,7 +6242,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "dream"
+      ]
    },
    "innocuous aspect" : {
       "circle" : 3,
@@ -6496,7 +6651,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "void"
+      ]
    },
    "life hack" : {
       "circle" : 8,
@@ -6563,7 +6720,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "dream"
+      ]
    },
    "lock armor" : {
       "circle" : 2,
@@ -6663,7 +6822,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "void"
+      ]
    },
    "mage armor" : {
       "circle" : 1,
@@ -6675,7 +6836,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "battle"
+         "battle",
+         "ward"
       ]
    },
    "mage hand" : {
@@ -6703,7 +6865,8 @@ export default {
       ],
       "styles" : [
          "hedge",
-         "fiendish"
+         "fiendish",
+         "ward"
       ]
    },
    "magic dampening field" : {
@@ -6773,7 +6936,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "clockwork"
+      ]
    },
    "magnificent mansion" : {
       "circle" : 7,
@@ -6957,7 +7122,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "temporal"
+         "temporal",
+         "clockwork"
       ]
    },
    "mephitic croak" : {
@@ -7031,7 +7197,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "dream"
+         "dream",
+         "ward"
       ]
    },
    "mind exchange" : {
@@ -7080,7 +7247,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "portal"
+      ]
    },
    "mirage arcane" : {
       "circle" : 7,
@@ -7187,7 +7356,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "battle"
+         "battle",
+         "portal"
       ]
    },
    "mithral dragon's might" : {
@@ -7212,6 +7382,7 @@ export default {
          "BFRD"
       ],
       "styles" : [
+         "dream",
          "temporal"
       ]
    },
@@ -7341,7 +7512,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "void"
+      ]
    },
    "nexus" : {
       "circle" : 7,
@@ -7394,7 +7567,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "ward"
+      ]
    },
    "not dead yet" : {
       "circle" : 4,
@@ -7617,7 +7792,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "dream"
+      ]
    },
    "phantasmal phalanx" : {
       "circle" : 7,
@@ -7709,7 +7886,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "fiendish"
+         "fiendish",
+         "ward"
       ]
    },
    "pocket portal" : {
@@ -7720,7 +7898,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "portal"
+      ]
    },
    "poison spray" : {
       "circle" : 0,
@@ -7916,6 +8096,16 @@ export default {
       ],
       "styles" : []
    },
+   "precognitive ward" : {
+      "circle" : 2,
+      "name" : "precognitive ward",
+      "ritual" : true,
+      "school" : "abjuration",
+      "sources" : [
+         "CB:C&C"
+      ],
+      "styles" : []
+   },
    "prestidigitation" : {
       "circle" : 0,
       "name" : "prestidigitation",
@@ -7947,7 +8137,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "illumination"
+      ]
    },
    "prismatic ray" : {
       "circle" : 5,
@@ -7969,7 +8161,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "chaos"
+         "chaos",
+         "illumination"
       ]
    },
    "prismatic wall" : {
@@ -7981,7 +8174,10 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "illumination",
+         "ward"
+      ]
    },
    "prison of hungry bones" : {
       "circle" : 5,
@@ -8003,7 +8199,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "hedge"
+         "hedge",
+         "ward"
       ]
    },
    "programmed illusion" : {
@@ -8042,7 +8239,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "ward"
+      ]
    },
    "protection from the void" : {
       "circle" : 2,
@@ -8052,7 +8251,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "void"
+      ]
    },
    "protective nimbus" : {
       "circle" : 3,
@@ -8065,6 +8266,16 @@ export default {
       "styles" : [
          "illumination"
       ]
+   },
+   "protective trap" : {
+      "circle" : 2,
+      "name" : "protective trap",
+      "ritual" : false,
+      "school" : "transmutation",
+      "sources" : [
+         "CB:C&C"
+      ],
+      "styles" : []
    },
    "pummelstone" : {
       "circle" : 0,
@@ -8192,7 +8403,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "doom"
+         "doom",
+         "void"
       ]
    },
    "ray of frost" : {
@@ -8290,7 +8502,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "ward"
+      ]
    },
    "reverberate" : {
       "circle" : 2,
@@ -8458,7 +8672,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "dream"
+      ]
    },
    "rune of imprisonment" : {
       "circle" : 3,
@@ -8558,6 +8774,16 @@ export default {
       "styles" : [
          "pyromancy"
       ]
+   },
+   "scouring wind" : {
+      "circle" : 4,
+      "name" : "scouring wind",
+      "ritual" : false,
+      "school" : "evocation",
+      "sources" : [
+         "CB:D&R"
+      ],
+      "styles" : []
    },
    "screaming ray" : {
       "circle" : 1,
@@ -8791,7 +9017,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "portal"
+      ]
    },
    "shade" : {
       "circle" : 2,
@@ -9039,7 +9267,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "weather"
+         "weather",
+         "clockwork"
       ]
    },
    "sheen of ice" : {
@@ -9064,7 +9293,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "battle"
+         "battle",
+         "ward"
       ]
    },
    "shield of ephemera" : {
@@ -9558,7 +9788,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "illumination"
+      ]
    },
    "starbright" : {
       "circle" : 5,
@@ -9568,7 +9800,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "illumination"
+      ]
    },
    "starburst" : {
       "circle" : 0,
@@ -9752,6 +9986,16 @@ export default {
       ],
       "styles" : []
    },
+   "sudden swap" : {
+      "circle" : 3,
+      "name" : "sudden swap",
+      "ritual" : false,
+      "school" : "conjuration",
+      "sources" : [
+         "CB:D&R"
+      ],
+      "styles" : []
+   },
    "suggestion" : {
       "circle" : 2,
       "name" : "suggestion",
@@ -9831,7 +10075,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "clockwork"
+      ]
    },
    "swing and a missile" : {
       "circle" : 0,
@@ -9855,7 +10101,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "hedge"
+         "hedge",
+         "ward"
       ]
    },
    "symbol of sorcery" : {
@@ -9941,7 +10188,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "portal"
+      ]
    },
    "teleportation circle" : {
       "circle" : 5,
@@ -10097,6 +10346,16 @@ export default {
          "temporal"
       ]
    },
+   "time skip" : {
+      "circle" : 7,
+      "name" : "time skip",
+      "ritual" : false,
+      "school" : "transmutation",
+      "sources" : [
+         "CB:D&R"
+      ],
+      "styles" : []
+   },
    "time slippage" : {
       "circle" : 8,
       "name" : "time slippage",
@@ -10132,7 +10391,8 @@ export default {
       ],
       "styles" : [
          "battle",
-         "temporal"
+         "temporal",
+         "clockwork"
       ]
    },
    "time vortex" : {
@@ -10169,7 +10429,8 @@ export default {
          "BFRD"
       ],
       "styles" : [
-         "ritual"
+         "ritual",
+         "clockwork"
       ]
    },
    "tireless" : {
@@ -10300,7 +10561,8 @@ export default {
          "DM2"
       ],
       "styles" : [
-         "doom"
+         "doom",
+         "void"
       ]
    },
    "trench" : {
@@ -10466,7 +10728,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "void"
+      ]
    },
    "unholy defiance" : {
       "circle" : 2,
@@ -10635,7 +10899,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "void"
+      ]
    },
    "vine trestle" : {
       "circle" : 2,
@@ -10657,7 +10923,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "dream"
+      ]
    },
    "visage of madness" : {
       "circle" : 4,
@@ -10719,7 +10987,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "void"
+      ]
    },
    "void strike" : {
       "circle" : 3,
@@ -10729,7 +10999,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "void"
+      ]
    },
    "volley shield" : {
       "circle" : 7,
@@ -10795,6 +11067,16 @@ export default {
       ],
       "styles" : []
    },
+   "wall of darkness" : {
+      "circle" : 4,
+      "name" : "wall of darkness",
+      "ritual" : false,
+      "school" : "evocation",
+      "sources" : [
+         "CB:D&R"
+      ],
+      "styles" : []
+   },
    "wall of fire" : {
       "circle" : 4,
       "name" : "wall of fire",
@@ -10817,7 +11099,9 @@ export default {
          "PG",
          "BFRD"
       ],
-      "styles" : []
+      "styles" : [
+         "ward"
+      ]
    },
    "wall of ice" : {
       "circle" : 6,
@@ -10831,6 +11115,16 @@ export default {
       "styles" : [
          "frost"
       ]
+   },
+   "wall of spirits" : {
+      "circle" : 5,
+      "name" : "wall of spirits",
+      "ritual" : false,
+      "school" : "necromancy",
+      "sources" : [
+         "CB:D&R"
+      ],
+      "styles" : []
    },
    "wall of stone" : {
       "circle" : 5,
@@ -10865,7 +11159,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "clockwork"
+      ]
    },
    "warning shout" : {
       "circle" : 2,
@@ -11153,7 +11449,9 @@ export default {
       "sources" : [
          "LW"
       ],
-      "styles" : []
+      "styles" : [
+         "void"
+      ]
    },
    "word of unmaking" : {
       "circle" : 0,
